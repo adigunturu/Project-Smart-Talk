@@ -24,12 +24,6 @@ Run Server
 
 Server Started on Port 3000.
 
-Run PeerJS Server in separate terminal.
-
-    peerjs --port 3001
-
-PeerJS Server Started on Port 3001.
-
 Open browser and goto http://localhost:3000/
 
 ## For Heroku
