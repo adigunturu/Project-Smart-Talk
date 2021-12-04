@@ -25,12 +25,3 @@ Run Server
 Server Started on Port 3000.
 
 Open browser and goto http://localhost:3000/
-
-## For Heroku
-
-Make a server app on Heroku for the Prototype: project-smart-talk
-
-Make a peerjs app on Heroku for peer connection (multiple users):
-https://elements.heroku.com/buttons/peers/peerjs-server - Click the Deploy On heroku Button - Pick a name for the server: smart-talk-peerjs - In the new peer function put this: secure:true,
-host: "smart-talk-peerjs.herokuapp.com",
-port: 443
